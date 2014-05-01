@@ -1,0 +1,23 @@
+C:\pleiades\workspace\GLTest\bin\MainActivity.ap_ \
+ : C:\pleiades\workspace\GLTest\res\drawable-hdpi\goo.jpg \
+C:\pleiades\workspace\GLTest\res\drawable-hdpi\ic_launcher.png \
+C:\pleiades\workspace\GLTest\res\drawable-mdpi\goo.jpg \
+C:\pleiades\workspace\GLTest\res\drawable-mdpi\ic_launcher.png \
+C:\pleiades\workspace\GLTest\res\drawable-xhdpi\goo.jpg \
+C:\pleiades\workspace\GLTest\res\drawable-xhdpi\ic_launcher.png \
+C:\pleiades\workspace\GLTest\res\drawable-xxhdpi\goo.jpg \
+C:\pleiades\workspace\GLTest\res\drawable-xxhdpi\ic_launcher.png \
+C:\pleiades\workspace\GLTest\res\layout\activity_main.xml \
+C:\pleiades\workspace\GLTest\res\menu\main.xml \
+C:\pleiades\workspace\GLTest\res\values\dimens.xml \
+C:\pleiades\workspace\GLTest\res\values\strings.xml \
+C:\pleiades\workspace\GLTest\res\values\styles.xml \
+C:\pleiades\workspace\GLTest\res\values-sw600dp\dimens.xml \
+C:\pleiades\workspace\GLTest\res\values-sw720dp-land\dimens.xml \
+C:\pleiades\workspace\GLTest\res\values-v11\styles.xml \
+C:\pleiades\workspace\GLTest\res\values-v14\styles.xml \
+C:\pleiades\workspace\GLTest\bin\res\drawable-hdpi\ic_launcher.png \
+C:\pleiades\workspace\GLTest\bin\res\drawable-mdpi\ic_launcher.png \
+C:\pleiades\workspace\GLTest\bin\res\drawable-xhdpi\ic_launcher.png \
+C:\pleiades\workspace\GLTest\bin\res\drawable-xxhdpi\ic_launcher.png \
+C:\pleiades\workspace\GLTest\bin\AndroidManifest.xml \
